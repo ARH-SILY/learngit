@@ -1,2 +1,2 @@
-hello whord!
-tell me somesing about git
+git is a kengdie ruanjian 
+i ma just a child
